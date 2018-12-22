@@ -1,0 +1,36 @@
+Question 1 :
+
+Which of the following is an incorrect string literal in javascript?
+"Hello "World""
+
+Question 2 :
+
+Javascript has an Integer data type to represent integers.
+false
+
+Question 3 :
+
+Javascript uses floating point number system to represent all numbers.
+
+Question 4 :
+
+In javascript, the number 4 will take up 64 bits of storage space. (8/16/32/64)
+true
+
+Question 5 :
+What is the output of the following code?
+
+
+var test1 = "123"
+
+var test2 = "124"
+
+test2 > test1
+
+response "true"
+
+Question 6 :
+
+The expression 4 == "4" evaluates to
+true
+

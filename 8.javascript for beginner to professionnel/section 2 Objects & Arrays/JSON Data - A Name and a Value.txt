@@ -1,0 +1,8 @@
+JSON data is written as name/value pairs, just like JavaScript object properties.
+
+
+A name/value pair consists of a field name (in double quotes), followed by a colon, followed by a value:
+
+
+"firstName":"John"
+JSON names require double quotes. JavaScript names do not.

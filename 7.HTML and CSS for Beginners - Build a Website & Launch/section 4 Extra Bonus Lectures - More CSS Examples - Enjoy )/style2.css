@@ -1,0 +1,25 @@
+/*
+author:abdibogoreh
+version: 7.5.6
+*/
+
+#hovers{
+			width:200px;
+			height:300px;
+			margin:0 auto;
+			border:1px solid black;
+			background-size:100%;
+			background-repeat:no-repeat;
+			background-image:url("not.jpeg");
+			opacity:1;
+}
+
+p{
+	text-align:center;
+}
+
+#hovers:hover {
+	  background-color:#ffff33;
+	  border:1px solid #b32d00;
+	  color:#ff4000;
+}

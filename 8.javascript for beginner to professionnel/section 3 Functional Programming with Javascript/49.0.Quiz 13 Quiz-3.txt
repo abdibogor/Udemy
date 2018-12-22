@@ -1,0 +1,19 @@
+Question 1 :
+
+Given an array of strings, if I want to find the largest string among them, which of the methods am I likely to use?
+
+
+filter
+reduce 
+
+Question 2 :
+
+The function
+function sum() {
+  return arguments.reduce(function(prev, curr) {return prev + curr;}, 0);
+}
+The call sum(2, 4, 6)
+
+gives an error during execution
+"arguments is not an array but an array like object. So the reduce function cannot be directly called."
+

@@ -1,0 +1,44 @@
+Question 1 :
+
+In javascript, which of the following are considered to be primitive data types?
+Number, String and Boolean
+
+Question 2 :
+
+The 'null' keyword in javascript is a type of object.
+true
+
+Question 3 :
+
+The 'undefined' keyword in javascript is a type of object.
+
+Question 4 :
+
+Which of the following is true in case of javascript?
+The date type of a variable is decided at runtime depending on what value it contains
+
+Question 5 :
+
+Consider the following javascript statements. What will the typeof operator print?
+var x;
+
+typeof x;
+
+x = "5";
+
+typeof x;
+
+reponse "undefined, string"
+Félicitations !
+
+When we just declare a variable without assigning any value to it, it is undefined.
+
+Question 6 :
+
+Javascript is a compiled language.
+False
+
+Question 7 :
+
+Javascript is a dynamically typed language.
+True

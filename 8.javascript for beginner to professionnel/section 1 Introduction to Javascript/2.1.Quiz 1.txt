@@ -1,0 +1,9 @@
+Question 1 :
+
+The Javascript language is usually
+meant to write programs that runs in a browser environment.
+
+Question 2 :
+
+In an HTML, javascript code can be written directly inside the
+script tag

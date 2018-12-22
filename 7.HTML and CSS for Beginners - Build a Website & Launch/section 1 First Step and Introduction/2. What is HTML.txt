@@ -1,0 +1,47 @@
+What is HTML?
+Stands for hyper Markup Language
+It is used to create web page
+
+how does it look like?
+<p>This is called a p tag or paragraph tag</p>
+
+<h1>page Heading</h1>
+
+<hr>
+<i>
+<bold>
+<strong>
+<header>
+<nav>
+<br>
+<div>
+<form>
+<audio>
+<footer>
+<embed>
+
+HOw does it work?
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+</head>
+<body>
+<p>This is called a p tag or paragraph tag</p>
+</body>
+</html> 
+
+Save with .html extension
+
+what about CSS?
+Stands for cascading style sheets
+it is used to control how a page looks very simple just a styling of the document.
+
+how does css look like?
+P{
+   color: red;
+   font-weight:bold;
+}
+
+Save with.css extension

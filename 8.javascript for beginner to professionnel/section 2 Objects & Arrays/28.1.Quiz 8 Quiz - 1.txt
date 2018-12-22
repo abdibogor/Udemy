@@ -1,0 +1,28 @@
+Question 1 :
+
+Which of the following is an invalid javascript object?
+{"author":"Charles Dickens", available:yes}
+yes it is not defined
+
+Question 2 :
+
+Consider the following code:
+var book = {title : "The Three Musketeers", author: "Alexandre Dumas", price: "$49"}
+for(var p in book) {
+console.log(p + ": " + book[p]);
+
+}
+
+title : the Three Musketeers author: Alexandre Dumas price: 49
+
+Question 3 :
+
+What is the output of the following code snippet?
+({title : "The Three Musketeers", author: "Alexandre Dumas", price: "$49"}).toString()
+
+[object object] 
+
+Question 4 :
+
+An object in Javascript is
+Unordered collection of properties

@@ -1,0 +1,10 @@
+Question 1 :
+
+REPL style console stands for
+Read Eval Print Loop
+
+Question 2 :
+
+The way to declare a new variable in javascript is by using the
+var keyword
+

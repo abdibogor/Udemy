@@ -1,0 +1,17 @@
+Question 1 :
+
+Javascript has a Java in its name, because
+Sun Microsystems used the name of java as it was a popular language by the time javascript came out.
+
+Javascript was originally called Livescript by Netscape. After partnering with Sun Microsystems, the language was renamed to Javascript as Sun thought that the popularity of Java will also make Javascript popular.
+
+
+Question 2 :
+
+Javascript (earlier called Livescript) is the first programming language to be used for running on a browser.
+True
+
+Question 3 :
+
+Javascript was created by
+Brenden Eich

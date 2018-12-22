@@ -1,0 +1,11 @@
+Question 1 :
+
+Given the following html snippet -
+<body>
+
+<img id="img1" src="http://gambarmesin.com/wp-content/uploads/2014/04/apple-laptop-png.png">
+<img src="http://inwallspeakers1.com/wp-content/uploads/2014/03/apple-laptop-png.png">
+<img src="http://apfeltech.net/wp-content/uploads/2012/09/imac_transparent.png">
+</body>
+
+document.getElementsByTagName("img")[1].src = "xyz.png" 

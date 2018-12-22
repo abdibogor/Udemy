@@ -1,0 +1,32 @@
+Question 1 :
+
+Consider the following code:
+function Circle(r) { 
+this.area = function() {return Math.PI * r * r} 
+}
+
+What happens when the following statements are executed?
+var x = Circle(2);
+x.area();
+method execution results in an erro
+
+Question 2 :
+
+Consider the following code:
+function Circle(r) { 
+this.area = function() {return Math.PI * r * r} 
+}
+What happens when the following statements are executed? 
+
+var x = Circle(2);
+area();
+returns an area of about 12.57
+
+Question 3
+If we want to have a reverse method on the string object, e.g. "xyz".reverse() returns the reversed string "zyx", then we can write the reverse function as String.prototype.reverse = function() {//logic to reverse}
+True
+
+Question 4:
+If we want to have a reverse method on the string object, e.g. "xyz".reverse() returns the reversed string "zyx", then we can write the reverse function as String.prototype.reverse = function() {//logic to reverse}
+How can we access the string to be reversed from inside the function?
+Using thet his keyword

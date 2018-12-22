@@ -1,0 +1,4 @@
+Question 1 :
+
+How can you create an image with HTML?
+<img src="images/edwin.jpg">

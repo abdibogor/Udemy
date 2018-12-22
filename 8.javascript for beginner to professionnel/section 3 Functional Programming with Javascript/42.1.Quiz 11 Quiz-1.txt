@@ -1,0 +1,25 @@
+Question 1 :
+
+Which of the following functions is NOT a higher order function?
+function abc(x){return Math.sqrt(x);}
+
+right function
+function abc(x,y) {var x = function() {return true;}; return x;}
+function abc(x,y) {for (var i=0; i <y; i++) {if x(i) {return true;} else {return false;}}}
+function abc() {return Math.sqrt;}
+
+Question 2 :
+
+In a functional language, functions can be passed as arguments to other functions
+response true
+
+Question 3 :
+
+In Javascript, we cannot write a function inside another function.
+response false
+
+Question 4 :
+
+In Javascript, we can hold a function in a variable. E.g.
+var x = function() {...}
+response True

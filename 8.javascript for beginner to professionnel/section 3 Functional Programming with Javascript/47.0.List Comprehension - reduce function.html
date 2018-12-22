@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="description" content="in fron-end"/>
+<meta name="keywords" content="Html,css"/>
+<meta name="author" content="abdibogoreh"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<p>The reduce() method reduces the array to a single value.<br>
+The reduce() method executes a provided function for each value of the array (from left-to-right).<p>
+The return value of the function is stored in an accumulator (result/total).</p>
+ 
+	<script language="javascript" type="text/javascript">
+			    [3,4,6,7,9]
+				Callback function:
+				   function(prev,curr,index,array){
+				       .... .... 
+				   }
+		prev: Value previously returned in the last invocation of the callback, or, initial value, if supplied.
+		
+		Curr: Current element being processed in the array.
+		
+		index: index of the curr element.
+		
+		array: Array on Which reduce was called.
+		
+		[3,4,6,7,9].reduce(function( prev, curr, index, array) {
+		   return prev + curr;
+		}, 0);
+		
+		
+		function sum_natural_nos(n){
+		   return 0;
+		}	
+
+		
+		 function range(start, end, step){
+		     var res = [];
+			 var item = start;
+			 while(item <= end){
+				res.push(item);
+				item = item + step;
+		 } 
+		   return res;
+		}
+		
+		
+		function sum_natural_nos(n){
+		   return range(1, n, 1).reduce(function(prev, curr){
+		      return prev + curr;
+		   });
+		}
+	</script> 
+</body>
+</html> 

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="description" content="in fron-end"/>
+<meta name="keywords" content="Html,css"/>
+<meta name="author" content="abdibogoreh"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/javascript">
+			function changeBgColor(event) {
+			  this.style.backgroundColor = "blue";
+			}	
+			
+			function load() {
+			  document.getElementById("id_name").onclick = changeBgColor;
+			  document.getElementById("id_name").addEventListener('click', changeBgColor);
+			  document.getElementById("txt1").onclick = changeBgColor;
+			  document.getElementById("txt2").onclick = changeBgcolor;
+			}
+			
+			window.addEventListener("load", load);
+			
+			/*
+			    var x = document.getElementById("id_name");
+			*/
+	</script> 
+</head>
+<body>
+			<div>
+			    <span id="txt1">This is first part of the text.</span><span id="txt2"> And this is the second part.</span> 
+				<form>
+				     <input id="id_name" type="text"></input> 
+				</form> 
+			</div> 
+</body>
+</html> 

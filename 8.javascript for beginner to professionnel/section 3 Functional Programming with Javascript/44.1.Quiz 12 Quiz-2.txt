@@ -1,0 +1,27 @@
+Question 1 :
+
+Consider the following code -
+function first(x) {
+
+return function() {
+
+return x++;
+
+}
+
+}
+
+What does the call first(1)() return?
+1
+
+
+Question 2:
+function add(to) {
+  
+return function(x) {
+    
+return x + to;
+  
+}
+What does add(2)("xyz") return?
+xyz2

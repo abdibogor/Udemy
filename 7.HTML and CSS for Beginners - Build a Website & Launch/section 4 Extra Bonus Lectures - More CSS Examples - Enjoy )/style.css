@@ -1,0 +1,18 @@
+/*
+author:Abdoulrazak Omar Bogoreh
+version: 7.5.6
+*/
+
+#page-title{
+	   text-align:center;
+	   color:#e60073;
+}
+
+#picture-container{
+	   border: 2px solid #ff6633;
+	   width:  400px;
+	   /*height: 250px;*/
+	   margin: 0 auto;
+	   padding: 20px;
+	   border-radius:5px;
+}

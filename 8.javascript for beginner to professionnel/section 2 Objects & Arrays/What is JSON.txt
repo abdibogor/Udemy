@@ -1,0 +1,7 @@
+JSON stands for JavaScript Object Notation
+
+JSON is lightweight data interchange format
+
+JSON is language independent *
+
+JSON is "self-describing" and easy to understand

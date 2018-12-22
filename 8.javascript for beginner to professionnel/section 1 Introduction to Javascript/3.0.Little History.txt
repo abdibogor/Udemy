@@ -1,0 +1,10 @@
+Javascript has Nothing to do with Java.
+
+	Philosophy of LiveScript
+. Should be lightweight
+. Avoid errors Exceptions by making intelligent guess
+
+	Java appelets
+
+ECMA
+European Computer Manufactures Association is entrusted with the task of Standardizing Javascript

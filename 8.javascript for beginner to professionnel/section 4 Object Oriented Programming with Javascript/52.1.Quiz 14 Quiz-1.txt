@@ -1,0 +1,16 @@
+Question 1 :
+
+Consider the following code
+var obj = {test: function() {console.log(this);} }
+var myfn = obj.test
+myfn(); 
+
+obj.test();
+
+Window{top: Window, ...} AND Object {test: function}
+
+Question 2 :
+
+A variable in javascript can store a function
+True
+

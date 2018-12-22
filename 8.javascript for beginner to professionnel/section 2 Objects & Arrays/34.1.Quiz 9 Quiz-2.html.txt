@@ -1,0 +1,19 @@
+Question 1 :
+
+In javascript, arrays are sparse.
+true
+
+Question 2 :
+
+In javascript, the length property always tells us how many elements are there in an array.
+false
+
+Question 3 :
+
+If an array evaluates to [undefined × 5, 1, 2, 3, undefined × 2], it's length property will have a value of
+10
+
+Question 4 :
+
+In javascript, the underlying data structure that is used for an array, is an Object.
+true

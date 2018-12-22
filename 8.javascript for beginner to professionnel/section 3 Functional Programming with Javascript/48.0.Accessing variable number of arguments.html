@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="description" content="in fron-end"/>
+<meta name="keywords" content="Html,css"/>
+<meta name="author" content="abdibogoreh"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	<script language="javascript" type="text/javascript">
+	          console.log("String 1");
+			  console.log("String 1", "string 2");
+			  
+			sum(1, 5, 3);
+			sum(2, 7, 4, 6);
+			
+			function sum(){
+			   console.log(arguments);
+			}
+			
+			sum(1, 5, 3);
+			
+			function sum() {
+			  for(var i = 0, i < arguments.length; i++) {
+			     console.log(arguments[i]);
+			  }
+			}
+			
+			sum(3, 5, 6);
+			function sum() {
+					return arguments.reduce(function(prev, curr){
+					return prev + curr;
+			});
+			}
+			
+			function sum() {
+			   var arrays = Arrays.prototype.slice.call(arguments);
+			    return args.reduce(function(prev, curr){
+				  return prev + curr;
+				});
+			 }
+			 
+			 sum(3, 5, 6); output 14
+			 sum(4, 6); output 10
+			 
+			 
+	</script> 
+</body>
+</html> 

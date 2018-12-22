@@ -1,0 +1,35 @@
+Question 1 :
+
+What will the call to the test function below return as per the following code snippet?
+function test(val) { 
+   
+switch (val) { 
+     
+case 1: return "1"; 
+     
+case 2: return "2"; 
+     
+default: return "0"; 
+   
+}
+
+}
+
+test("2");
+
+response 0
+
+Question 2 :
+
+What is the output of the following code snippet?
+for (var i=10; i<=12; i++) {
+if (i==11) {
+continue;
+}
+  
+i++;
+console.log(i);
+
+}
+
+11-13

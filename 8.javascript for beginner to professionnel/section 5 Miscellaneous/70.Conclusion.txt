@@ -1,0 +1,11 @@
+Now we come to the end of this Javascript code! By now you should be 
+
+Knowing the language syntax
+.
+Knowing some of the pitfalls in javascript & how to avoid them
+.
+Well versed with functional programming ideas, which helps in writing better code.
+
+As with any programming language, the only way to get better at it is to write programs as much as possible, even if you have to struggle.
+
+A good knowledge of the javascript language can help you with a promising career as a web developer because all web applications have javascript in some form or the other. So make sure you complete this course and do the exercises.

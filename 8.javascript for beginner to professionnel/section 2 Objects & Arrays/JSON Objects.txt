@@ -1,0 +1,6 @@
+JSON objects are written inside curly braces.
+
+
+Just like in JavaScript, objects can contain multiple name/value pairs:
+{"firstName":"John", "lastName":"Doe"}
+]
