@@ -1,0 +1,25 @@
+HyperText Markup Language
+New Semantics
+<header>
+<nav>
+<article>
+<aside>
+<footer>
+<section>
+New Elements
+New Attributes
+Full CSS3 Support
+Video and Audio
+2d / 3D Graphics {
+	Canvas 
+      inline SVG
+      CSS3 2D / 3D TRansforms
+}
+Local Storage
+SQL Databases
+Web Applications
+Local Data Storage
+Local File ACCess
+Local SQL DAtabases
+Application Cache
+Web Workers - Javascript

@@ -1,0 +1,36 @@
+What is HTML?
+.Hyper Text Mark-up Language
+. The basis for all things web
+. Essential Language
+
+What does a html file container?
+. Document Type declarations
+.Head
+.Body
+.Elements
+
+What are Tags and elements?
+.<div>
+.</div>
+.<div></div>
+
+What is HTML5?
+. The latest version of html
+. HTML5 is a work in progress
+. Most Modern Browsers support HTML5
+. OPera, firefox , safari, chrome.
+
+
+Why use HTML5?
+. Semantic elements
+. A clean Way to write HTML
+. Modern Web development
+
+Semantic Elements
+<header></header>
+<nav></nav>
+<footer></footer>
+
+Non-semantic elements
+<div></div>
+<span></span>
