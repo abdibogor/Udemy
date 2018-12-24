@@ -1,0 +1,3 @@
+Use CSS To Work With Images
+Section 2, session 9
+To achieve the text-on-image effects I showed you before, you can use CSS for your websites. Here is example CSS code for some of the effects. Please change it according to your needs.

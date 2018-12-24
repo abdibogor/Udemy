@@ -1,0 +1,23 @@
+"Typography is the art and technique of arranging type to make writtern language readable and beautiful"
+La typographie est l'art et la technique de l'arrangement de type pour rendre la langue écrite lisible et belle
+
+1. Use A font-size Between 15 and 25 Pixels
+2. Use(Really) Big font Sizes for Headlines 30px - 60px
+ Use(Really) Big font Sizes for Headlines 90px
+3. Use Line Spacing Between 120 and 150%
+4. 45 to 90 CHARACTERS PER LINE 78chars
+5. Use Good fonts
+ F (sans-serif)
+. More neutral
+. Clean
+. Simple
+. Modern websites
+F serif(red serif)
+
+Google web fonts
+
+How to choose A font?
+1. Choose a font which reflects the look and feel you want for your website
+2. Decide: sans-serif or serif typeface?
+3. Use a good font
+4. Use only that one typeface

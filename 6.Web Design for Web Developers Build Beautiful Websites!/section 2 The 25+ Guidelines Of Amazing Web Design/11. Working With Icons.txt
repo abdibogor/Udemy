@@ -1,0 +1,11 @@
+icons can be a very important part
+
+1. Use icons to list features/steps (You can use icons to show futures off your Web site or a product that you're selling or steps that a
+
+user should follow to achieve some goal.)
+2. use icons for actions and links
+a. icons should be recognizable 
+b. label your icons
+
+3. Icons should not take a center Stage
+4. Use icon fonts Whenever Possible

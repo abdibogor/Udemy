@@ -1,0 +1,24 @@
+Question 1 :
+
+A front-end developer works with languages like
+html, css and javascript
+
+Question 2 :
+
+When you use very big font-sizes, you should:
+Decrease font weight
+
+Question 3 :
+
+Why does color make such a great difference in web design?
+Because there are psychological effects behind each color
+
+Question 4 :
+
+Putting text directly on an image only works when:
+the image is dark and the text is white
+
+Question 5 :
+
+How does the floor fade technique work?
+the image fades towards black at the bottom, with white text writtent over it.

@@ -1,0 +1,4 @@
+The designer Creates the look and feel.
+The developper Builds it.(Le developper le construit)
+ 
+

@@ -1,0 +1,25 @@
+Question 1 :
+
+Why should we use icon fonts if 
+because they scale endlessly and therefore don't blur
+
+Question 2 :
+
+Whitespace is the key to:
+create a clean and simple look
+
+Question 3 :
+
+When you design visual hierarchy:
+you walk your users through the content's message
+
+Question 4 :
+
+In simple terms, user experience is:
+how it works
+
+Question 4 :
+
+In simple terms, user experience is:
+analyzing html and css code of well designed websites is useless
+

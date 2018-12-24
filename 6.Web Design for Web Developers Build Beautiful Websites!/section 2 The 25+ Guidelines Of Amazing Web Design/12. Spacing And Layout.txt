@@ -1,0 +1,21 @@
+what is whitespace whitespace is just space where there isn't any stuff easy.
+Ce qui est blanc n'est que de l'espace où rien n'est facile.
+
+Whitespace absolutely is the key to create a clean and simple look and feel.
+Xaqiiqada dhabta ah waa fure u ah abuuritaanka muuqaal nadiif ah oo fudud.
+Whitespace est absolument la clé pour créer un look propre et simple.
+
+the space between the icons and to text the space between sections between the sections headings
+
+1. Use Whitespace
+a.Put whitespace between your elements
+b.Put whitespace between your groups of elements
+c.Put whitespace between your website's sections
+d.but don't exaggerate
+
+2. Define Hierarchy
+So whitespace is closely related to something we call visual hierarchy.
+
+.Define where you want audience to look first
+.Establish a flow that corresponds to your content's message
+.Use whitespace to build tht flow

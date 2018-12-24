@@ -1,0 +1,7 @@
+1. Put text directly ON the image(mettre du texte directement sur l'image)
+2. Overlay The Image(Superposer l'image) ou Hooska
+3. Put Your TExt in A box(Mettez votre Text dans une boîte)
+4. Blur The image(this is very powerful and alos good looking) 
+5. The Floor Fade(Le plancher s'estompe)
+where an image suddenly fades towards black at the bottom with white text written over it.
+où une image s'estompe soudainement vers le bas en noir avec un texte blanc écrit dessus.
