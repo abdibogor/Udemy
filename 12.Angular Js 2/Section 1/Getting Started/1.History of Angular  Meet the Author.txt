@@ -1,0 +1,14 @@
+Who is it for?
+Beginner to intermediate
+	Web Developers
+
+Knowledge of HTML, CSS and JS
+AngularJS Experience a Benefit
+
+About the Course
+Know how to Build a Real
+Angular 2+ App
+Angular CLI
+Components
+Services
+Http Forms RXJS

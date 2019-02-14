@@ -1,0 +1,29 @@
+<!DOCTYPE html> <!-- uppercase or lowercase -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<script language="javascript" type="text/javascript" src=""></script>
+<base href="" target="_blank">
+<meta name="description" content="computer Science"/>
+<meta name="keywords" content="html,css, javascript"/>
+<meta name="author" content="abdibogoreh"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+<link rel="stylesheet" type="text/css" href=""/>
+<link rel="start" href=""/>
+</head>
+<body>
+
+{% extends 'polls/base.html' %}
+
+{% block main_content %}
+	<h1> {{question.question_text}} </h1>
+	<ul>
+		{% for choice in question.choice_set.all %}
+	        <li>{{choice.choice_text}}</li>
+		{% endfor %}
+	</ul>
+</body>
+</html> 
+

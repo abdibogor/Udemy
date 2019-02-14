@@ -1,0 +1,4 @@
+def detail(request, question_id):
+ question = Question.objects.get(pk = question_id)
+ return render(request, 'polls/detail.html', {'question': question})
+ 

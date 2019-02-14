@@ -1,0 +1,18 @@
+you can click models.py
+
+from django.db import models
+
+class Question(models.Model):
+      Question_text = models.CharField(max_lenght=200)
+      pub_date = models.DateTimeField('date published');
+
+ def_str_(self):
+return self.question_text
+
+class Choice(models.Model):
+   choice_text = models.charField(max_length=200)
+   votes = models.integerField(default=0)
+   Question = models.ForeignKey(Question, on_delete=models.CASCADE)
+   
+def__str__(self):
+   return self.choice_text

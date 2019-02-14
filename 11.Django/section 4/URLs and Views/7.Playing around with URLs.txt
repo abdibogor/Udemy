@@ -1,0 +1,17 @@
+from django.conf.urls import url
+form django.contrib import admin
+
+urlpatterns = [
+   url(r'^admin/', admin.site.urls);
+   url(r'^polls/', include('polls.urls');
+
+
+urls patterns = [
+	  url(r'^$', views.index, name="index")
+	#127.0.0.1/polls/
+]
+
+views.py
+
+def index [request ];
+  return HttpResponse('Awesome jobs guys! This is the index page, of our polls application

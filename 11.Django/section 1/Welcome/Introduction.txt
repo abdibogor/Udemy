@@ -1,0 +1,4 @@
+- Setting Up Our Django App
+- Creating/Populating database
+- Play with Urls and Views
+- Add Bootstrap and CSS

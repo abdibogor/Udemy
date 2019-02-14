@@ -1,0 +1,18 @@
+you can click models.py
+
+write it python manage.py shell
+from django.utils import timezone
+q = Question(question_text = "What 's your name", pub_date = timezone();
+
+import django
+django.setup()
+from polls.models import Question, Choice
+
+q.choice_set.create(choice_text = "bob", votes = 0)
+q.choice_set.create(choice_text = "rachel", votes = 0)
+q.choice_set.create(choice_text = "fred", votes = 0)
+
+q.save()
+exit()
+
+python manage.py createsuperuser

@@ -1,0 +1,15 @@
+create New static
+then polls
+create style.css
+li a {
+	color: blue; 
+}
+
+body {
+	color: white;
+	background: white url("images/background.jpg") no-repeat;
+}
+
+write in google 
+blue background images
+choice one and save as

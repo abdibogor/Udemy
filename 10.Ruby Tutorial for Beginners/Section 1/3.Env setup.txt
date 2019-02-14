@@ -1,0 +1,6 @@
+https//www.ruby-lang.org/en
+you can click Documentation
+Installing Ruby
+Choose Your Installation Method
+RubyInstaller(Windows)
+click Download	(https://rubyinstaller.org)

@@ -1,0 +1,2 @@
+#A variable is a named storage location for a value. It is called variable because the information stored in that location can be changed when the program is running.
+#To assign a variable a value, use the equal sign.

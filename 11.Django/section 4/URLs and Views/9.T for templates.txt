@@ -1,0 +1,4 @@
+https://docs.djangoproject.com/en/1.9/topics/templates
+
+you can create folder templates then polls
+index.html

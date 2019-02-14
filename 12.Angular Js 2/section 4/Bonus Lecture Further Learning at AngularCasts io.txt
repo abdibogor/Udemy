@@ -1,0 +1,17 @@
+Core ANGULAR TOPICS
+TypeScript in Depth
+Angular Templates
+Directives and Bindings
+Observables with RxJs
+Testing
+Beyond Angular
+Backend/Server Side
+Databases
+Lonic
+Electron
+learning Ressources
+
+official Angular Docs
+angular.io
+
+angularcasts.io

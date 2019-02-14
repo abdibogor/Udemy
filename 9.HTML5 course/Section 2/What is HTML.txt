@@ -1,0 +1,9 @@
+What IS HTML?
+
+HTML is The Standard Markup Language for creating web Pages.
+html Stands for Hyper Text Markup Language.
+HTML describes the Structure of Web pages using Markup
+HTML Elements are the building Blocks of HTML pages
+HTML Elements are represented By Tags
+HTML Tags Label Pieces of Content Sucha As "Heading", Paragraph
+Browsers Do not Display The html Tags, But use them to render The Content of The Page.

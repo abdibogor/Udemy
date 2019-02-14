@@ -1,0 +1,31 @@
+<!DOCTYPE html> <!-- uppercase or lowercase -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<script language="javascript" type="text/javascript" src=""></script>
+<base href="" target="_blank">
+<meta name="description" content="computer Science"/>
+<meta name="keywords" content="html,css, javascript"/>
+<meta name="author" content="abdibogoreh"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+<link rel="stylesheet" type="text/css" href=""/>
+<link rel="start" href=""/>
+</head>
+<body>
+
+	{% if latest_questions  %}
+	  do something
+	{% else %}
+	  do something else
+	{% endif %}
+
+	{% for question in latest_questions %}
+	  <li><a href='/polls/{{question.id}}'><b>{{question.question_text}}</b></a>	
+	 <p>you don't have any questions. Please add some.</p>	  
+	{% endfor %}
+
+</body>
+</html> 
+

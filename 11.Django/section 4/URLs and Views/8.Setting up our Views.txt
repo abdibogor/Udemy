@@ -1,0 +1,29 @@
+you can open views.py
+
+from django.http import httpResponse
+
+from.models import Question
+#create your views here.
+
+def index[request];
+    return HttpResponse('Awesome job guys! This is the index page, of our polls application');
+
+def detail(request, question_id):
+   return HttpResponse("This is the detail view of the question : %s" % question_id)
+
+def results(request, question_id):
+   return HttpResponse("These are the results of the question: %s" % question_id)
+
+def vote(request, questio_id);
+  return HttpResponse("Vote on question: %s" % question_id)
+
+you can reopen polls/urls.py
+urlpatterns = [
+     url(r'^$, views.index, name="index"),
+#127.0.0.1/polls/
+url(r'^(?p<question_id[8-9]+)/$', views.detail, name="detail"),
+#127.0.0.1/polls/
+url(r'^(?p<question_id[8-9]+)/$', views.results, name="detail"),
+#127.0.0.1/polls/
+url(r'^(?p<question_id[8-9]+)/$', views.vote, name="detail"),
+#127.0.0.1

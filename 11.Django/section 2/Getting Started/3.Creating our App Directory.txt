@@ -1,0 +1,4 @@
+create first project
+pip3 install virtualenv
+virtualenv -p python3 env
+pip install django
